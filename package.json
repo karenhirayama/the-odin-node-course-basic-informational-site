@@ -1,0 +1,19 @@
+{
+  "name": "the-odin-node-course-basic-informational-site",
+  "version": "1.0.0",
+  "description": "Project: Basic Informational Site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenhirayama/the-odin-node-course-basic-informational-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karenhirayama/the-odin-node-course-basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/karenhirayama/the-odin-node-course-basic-informational-site#readme"
+}
